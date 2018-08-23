@@ -1,5 +1,5 @@
 /**
- * Author: Jared Wurgler Taylor Kellog
+ * Author: Jared Wurgler Alec Brown
  * Date: 08/20/2018
  *
  * A simple hello world program in C
@@ -9,7 +9,7 @@
 #include<stdio.h>
 int main(int argc, char **argv) {
 
-  printf("Jared Wurgler Electrical Engineering!\n");
+  printf("Jared Wurgler Electrical Engineering! I am Alec Brown, also an electrical engineering major.\n");
 
   return 0;
 }
